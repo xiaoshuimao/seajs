@@ -18,11 +18,11 @@ seajs-css         https://github.com/seajs/seajs-css/blob/master/README.md
 seajs-preload     https://github.com/seajs/seajs-preload/blob/master/README.md  
 seajs-text        https://github.com/seajs/seajs-text/issues/1  
 seajs-style       https://github.com/seajs/seajs-style/issues/1         	
-seajs-combo       https://github.com/seajs/seajs-combo/issues/3	
-seajs-flush       https://github.com/seajs/seajs-flush/issues/7	
-seajs-debug       https://github.com/seajs/seajs-debug/issues/4	
-seajs-log         https://github.com/seajs/seajs-log/issues/1	
-seajs-health      https://github.com/seajs/seajs-health/issues/2  
+seajs-combo       https://github.com/seajs/seajs-combo/issues/3				
+seajs-flush       https://github.com/seajs/seajs-flush/issues/7				
+seajs-debug       https://github.com/seajs/seajs-debug/issues/4				
+seajs-log         https://github.com/seajs/seajs-log/issues/1				
+seajs-health      https://github.com/seajs/seajs-health/issues/2  			
 
 
 
