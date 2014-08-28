@@ -3,6 +3,14 @@ seajs
 
 专门整理seajs相关
 
+#CMD规范#
+[CMD规范](https://github.com/seajs/seajs/issues/242)
+
+#seajs模块标识#
+[模块标识](https://github.com/seajs/seajs/issues/258)
+
+#seajs模块id和模块路径匹配原则#
+[seajs模块id和模块路径匹配原则](https://github.com/seajs/seajs/issues/930)
 
 #seajs版本差别#
 2.2.1	https://github.com/seajs/seajs/issues/713	
