@@ -13,6 +13,7 @@ seajs
 [seajs模块id和模块路径匹配原则](https://github.com/seajs/seajs/issues/930)
 
 #seajs版本差别#
+[各个版本详细](https://github.com/seajs/seajs/releases)
 2.2.1	https://github.com/seajs/seajs/issues/713	
 2.3.0	https://github.com/seajs/seajs/issues/1228	
 
